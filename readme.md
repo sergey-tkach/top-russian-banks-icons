@@ -82,3 +82,15 @@
 78. Банк ВТБ
 79. Запсибкомбанк
 80. Банк ЗЕНИТ
+
+|![](svg-minified/absolut.svg) | ![](svg-minified/akbars.svg) |![](svg-minified/alfa.svg) | ![](svg-minified/atb.svg) |![](svg-minified/avangard.svg) | ![](svg-minified/aversbank.svg) |![](svg-minified/zenit.svg) | ![](svg-minified/bank-soyuz.svg) |
+| :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+|![](svg-minified/bbr.svg)|![](svg-minified/binbank.svg)|![](svg-minified/bks.svg) | ![](svg-minified/bnp-paribas.svg) |![](svg-minified/bystrobank.svg) | ![](svg-minified/cetelem.svg) |![](svg-minified/chelindbank.svg) | ![](svg-minified/citi.svg) |
+|![](svg-minified/crediteurope.svg) |![](svg-minified/domrfbank.svg) |![](svg-minified/dvb.svg) |![](svg-minified/expobank.svg) |![](svg-minified/forabank.svg) |![](svg-minified/gazprom.svg) |![](svg-minified/homecredit.svg) |![](svg-minified/ing.svg)
+|![](svg-minified/intesa.svg) |![](svg-minified/lipetskkombank.svg) |![](svg-minified/lockobank.svg) |![](svg-minified/mdm.svg) |![](svg-minified/metallinvestbank.svg) |![](svg-minified/metcom.svg) |![](svg-minified/minbank.svg) |![](svg-minified/mkb.svg)
+|![](svg-minified/modulbank.svg) |![](svg-minified/moskva.svg) |![](svg-minified/mosoblbank.svg) |![](svg-minified/mts.svg) |![](svg-minified/ndb.svg) |![](svg-minified/neyva.svg) |![](svg-minified/novikom.svg) |![](svg-minified/open.svg)
+|![](svg-minified/otp.svg) |![](svg-minified/peresvet.svg) |![](svg-minified/plus-bank.svg) |![](svg-minified/pochta.svg) |![](svg-minified/poidem.svg) |![](svg-minified/primbank.svg) |![](svg-minified/psb.svg) |![](svg-minified/qiwi.svg)
+|![](svg-minified/raiffeisen.svg) |![](svg-minified/rencredit.svg) |![](svg-minified/rgsbank.svg) |![](svg-minified/rnkb.svg) |![](svg-minified/rocket.svg) |![](svg-minified/ros.svg) |![](svg-minified/rosevro.svg) |![](svg-minified/rosselkhoz.svg)
+|![](svg-minified/rossiya.svg) |![](svg-minified/rs.svg) |![](svg-minified/sber.svg) |![](svg-minified/skbbank.svg) |![](svg-minified/smpbank.svg) |![](svg-minified/snbank.svg) |![](svg-minified/sovcombank.svg) |![](svg-minified/spb.svg)
+|![](svg-minified/surgutneftegas.svg) |![](svg-minified/sviaz-bank.svg) |![](svg-minified/tatsotsbank.svg) |![](svg-minified/tavricheskiy.svg) |![](svg-minified/tinkoff.svg) |![](svg-minified/tkb.svg) |![](svg-minified/tochka.svg) |![](svg-minified/trust.svg)
+|![](svg-minified/ubrir.svg) |![](svg-minified/unicredit.svg) |![](svg-minified/uralsib.svg) |![](svg-minified/vbrr.svg) |![](svg-minified/vostbank.svg) |![](svg-minified/vozrozhdenie.svg) |![](svg-minified/vtb.svg) |![](svg-minified/zapsibkombank.svg)
