@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icons/banks/44/modulbank</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/banks/44/modulbank" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path" fill="#90D1F3" fill-rule="nonzero" points="7 7 13 7 13 13 7 13"></polygon>
+        <polygon id="Path" fill="#D3D800" fill-rule="nonzero" points="7 13 13 13 13 19 7 19"></polygon>
+        <polygon id="Path" fill="#88BD1F" fill-rule="nonzero" points="13 13 19 13 19 19 13 19"></polygon>
+        <polygon id="Path" fill="#003A69" fill-rule="nonzero" points="19 7 25 7 25 13 19 13"></polygon>
+        <polygon id="Path" fill="#90D1F3" fill-rule="nonzero" points="25 7 31 7 31 13 25 13"></polygon>
+        <polygon id="Path" fill="#009EE3" fill-rule="nonzero" points="25 13 31 13 31 19 25 19"></polygon>
+        <polygon id="Path" fill="#88BD1F" fill-rule="nonzero" points="31 13 37 13 37 19 31 19"></polygon>
+        <polygon id="Path" fill="#90D1F3" fill-rule="nonzero" points="31 19 37 19 37 25 31 25"></polygon>
+        <polygon id="Path" fill="#009EE3" fill-rule="nonzero" points="31 31 37 31 37 37 31 37"></polygon>
+        <path d="M25,25 L31,25 L31,31 L25,31 L25,25 Z M19,19 L25,19 L25,25 L19,25 L19,19 Z" id="Shape" fill="#D3D800" fill-rule="nonzero"></path>
+        <polygon id="Path" fill="#88BD1F" fill-rule="nonzero" points="19 31 25 31 25 37 19 37"></polygon>
+        <polygon id="Path" fill="#90D1F3" fill-rule="nonzero" points="13 19 19 19 19 25 13 25"></polygon>
+        <polygon id="Path" fill="#009EE3" fill-rule="nonzero" points="13 25 19 25 19 31 13 31"></polygon>
+        <polygon id="Path" fill="#003A69" fill-rule="nonzero" points="7 25 13 25 13 31 7 31"></polygon>
+        <polygon id="Path" fill="#90D1F3" fill-rule="nonzero" points="7 31 13 31 13 37 7 37"></polygon>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icons/banks/44/crediteurope</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/banks/44/crediteurope" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#FFFFFF" cx="22" cy="22" r="14"></circle>
+        <path d="M22,34 C15.372583,34 10,28.627417 10,22 C10,15.372583 15.372583,10 22,10 C28.627417,10 34,15.372583 34,22 C34,28.627417 28.627417,34 22,34 Z M22,16.0288761 L16.0288761,22 L22,27.9711239 L27.9711239,22 L22,16.0288761 Z" id="Shape" fill="#EC1C24"></path>
+    </g>
+</svg>

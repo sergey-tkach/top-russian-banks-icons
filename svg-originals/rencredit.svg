@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icons/banks/44/rencredit</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="3.34202335%" cy="95.9753333%" fx="3.34202335%" fy="95.9753333%" r="96.8365759%" gradientTransform="translate(0.033420,0.959753),scale(1.000000,0.857143),translate(-0.033420,-0.959753)" id="radialGradient-1">
+            <stop stop-color="#D6005E" offset="0%"></stop>
+            <stop stop-color="#E3448A" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="icons/banks/44/rencredit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M14.0155642,36 L10,36 L10,18.7333333 C10,12.8533333 14.8560311,8 20.7392996,8 L34,8 L34,18.64 C34,24.6133333 29.1439689,29.3733333 23.2607004,29.3733333 L16.536965,29.3733333 L18.0311284,25.36 L23.1673152,25.36 C26.9027237,25.36 29.8910506,22.3733333 29.8910506,18.64 L29.8910506,12.0133333 L20.6459144,12.0133333 C16.9105058,12.0133333 13.922179,15 13.922179,18.7333333 L13.922179,36 L14.0155642,36 Z" id="Path" fill="url(#radialGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>

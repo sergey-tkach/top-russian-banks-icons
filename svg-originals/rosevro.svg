@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icons/banks/44/rosevro</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/banks/44/rosevro" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M20,13 C17.1304348,11.2521589 13.173913,10 9,10 L9,35 L20,35 L32,35 L32,35 C32,25.7599309 27.3478261,17.7288428 20,13" id="Fill-1" fill="#FF4B5F" fill-rule="nonzero"></path>
+        <path d="M9,9 L9,9 C13.1166667,9.47587354 17.0166667,10.4708819 20,12 C28.76,16.4409318 34.48,25.0499168 34,35 L34,35 L35,35 L35,9 L20,9 L9,9 Z" id="Fill-4" fill="#003791" fill-rule="nonzero"></path>
+    </g>
+</svg>

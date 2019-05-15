@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icons/banks/44/zenit-mono</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="87.86%" x2="0%" y2="87.86%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.52" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="87.86%" x2="0%" y2="87.86%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.64" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="87.86%" x2="0%" y2="87.86%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icons/banks/44/zenit-mono" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M14.1944444,30.3144444 C21.6355556,27.34 26.5133333,23.5366667 28.8244444,18.9033333 L28.8244444,32.8044444 L14.1944444,32.8044444 C14.2522222,32.3422222 14.2522222,31.5122222 14.1944444,30.3144444 Z" id="Path" fill="url(#linearGradient-1)"></path>
+        <path d="M20.0466667,13.0488889 C21.7233333,14.6444444 23.9177778,15.5555556 26.63,15.7855556 L26.63,19.4488889 C24.8911111,22.41 22.6966667,24.5411111 20.0466667,25.8422222 C20.0688889,22.8111111 20.0466667,16.3366667 20.0466667,13.0488889 L20.0466667,13.0488889 Z" id="Path" fill="url(#linearGradient-2)"></path>
+        <polygon id="Path" fill="#FFFFFF" points="30.2877778 16.7077778 28.3333333 16.7077778 28.3333333 15.9755556 31.0188889 15.9755556 31.0188889 35 12 35 12 15.9755556 18.3688889 15.9755556 18.3688889 16.7077778 12.7311111 16.7077778 12.7311111 34.2666667 30.2888889 34.2666667"></polygon>
+        <path d="M20.7777778,5 C21.7555556,6.39777778 22.9744444,7.41555556 24.4355556,8.05222222 C24.4355556,10.33 24.4444444,12.3855556 24.4355556,13.8988889 C23.0933333,13.8988889 21.8733333,13.1066667 20.7777778,11.5244444 L20.7777778,5 Z" id="Path" fill="url(#linearGradient-3)"></path>
+    </g>
+</svg>

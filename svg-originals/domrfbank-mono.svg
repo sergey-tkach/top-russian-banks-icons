@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icons/banks/44/domrfbank-mono</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="8" y="8" width="28" height="28"></rect>
+    </defs>
+    <g id="icons/banks/44/domrfbank-mono" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Rectangle" fill="#FFFFFF" opacity="0.5" xlink:href="#path-1"></use>
+        <polygon id="Rectangle" fill="#FFFFFF" mask="url(#mask-2)" points="36 8 36 36 8 36"></polygon>
+    </g>
+</svg>

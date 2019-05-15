@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icons/banks/44/modulbank-mono</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/banks/44/modulbank-mono" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M13,25 L13,19 L13,13 L19,13 L19,19 L19,25 L19,31 L13,31 L13,25 Z M31,13 L31,19 L25,19 L25,13 L25,7 L31,7 L31,13 Z M7,7 L13,7 L13,13 L7,13 L7,7 Z M31,19 L37,19 L37,25 L31,25 L31,19 Z M19,31 L25,31 L25,37 L19,37 L19,31 Z M7,31 L13,31 L13,37 L7,37 L7,31 Z" id="Combined-Shape" fill-opacity="0.8" fill="#FFFFFF" fill-rule="nonzero"></path>
+        <path d="M25,25 L31,25 L31,31 L25,31 L25,25 Z M19,19 L25,19 L25,25 L19,25 L19,19 Z M7,13 L13,13 L13,19 L7,19 L7,13 Z M31,31 L37,31 L37,37 L31,37 L31,31 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="31 13 37 13 37 19 31 19"></polygon>
+        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="19 7 25 7 25 13 19 13"></polygon>
+        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="7 25 13 25 13 31 7 31"></polygon>
+    </g>
+</svg>

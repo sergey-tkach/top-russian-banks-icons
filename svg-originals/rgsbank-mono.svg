@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icons/banks/44/rgsbank-mono</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/banks/44/rgsbank-mono" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M27,24 L27,20 C29.6738751,20 35,21.2661272 35,28 C35,28.595133 34.8793164,30.8318384 33.3194977,32.7323684 C32.5340077,33.6893117 31.5078479,34.4654542 30.2598535,34.9973522 C28.7181723,35.6535637 26.6246948,36 24.7663062,36 L15,36 L15,31.9980469 L21.975933,31.9980469 C21.9787234,31.9980469 22.3805371,32.0011078 24.7663062,31.9980469 C27.1946285,31.9950556 28.7028253,31.7626372 29.8378096,30.7940069 C30.7439833,30.0177948 31.0845947,29.107109 31.0845947,27.6821289 C31.0845947,25.4820557 29.6738751,24 27,24 Z M32,8 L32,12 L15,12 L15,8 L32,8 Z M25,20 L25,24 L19,24 L19,30 L15.0608696,30 L15.0608696,24 L9,24 L9,20 L15.0608696,20 L15.0608696,14 L19,14 L19,20 L25,20 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

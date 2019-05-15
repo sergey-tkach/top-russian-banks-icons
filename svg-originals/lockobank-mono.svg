@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icons/banks/44/lockobank-mono</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/banks/44/lockobank-mono" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <ellipse id="Oval" fill="#FFFFFF" cx="22.2639062" cy="31.0320427" rx="3.69230769" ry="3.5862069"></ellipse>
+        <path d="M21.1565084,21.6623816 L14.3514784,33.1103423 C13.3318758,34.8255986 11.0736958,35.4132888 9.30769231,34.4229851 C7.54168877,33.4326814 6.93661128,31.2393917 7.95621389,29.5241354 L16.8929988,14.4899678 L21.1565084,21.6623816 L21.1565084,21.6623816 Z" id="Shape" fill="#FFFFFF"></path>
+        <path d="M20.2360938,9.5770149 C22.0020973,8.58671121 24.2602773,9.17440142 25.2798799,10.8896577 L36.356803,29.5241354 C37.3764056,31.2393917 36.7713281,33.4326814 35.0053246,34.4229851 C33.239321,35.4132888 30.9811411,34.8255986 29.9615385,33.1103423 L18.8846154,14.4758646 C17.8650128,12.7606083 18.4700903,10.5673186 20.2360938,9.5770149 Z" id="Rectangle" fill="#FFFFFF"></path>
+    </g>
+</svg>
